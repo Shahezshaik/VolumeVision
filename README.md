@@ -191,6 +191,14 @@ Add a screenshot of the application here:
 
 * Add -platform audio support
 
+## 🖥️ Download
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](../../releases/latest)
+
+> Download `VolumeVision.exe` from the latest GitHub Release.
+> No Python installation is required.
+
+
 ## 👨‍💻 Author
 
 **Shahez Shaik**
