@@ -1,0 +1,53 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+env/
+venv/
+.venv/
+
+# Environment Variables
+
+.env
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Camera / generated media
+
+*.mp4
+*.avi
+*.mov
+
+# Local project files
+
+*.local
