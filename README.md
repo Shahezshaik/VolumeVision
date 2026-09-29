@@ -172,8 +172,30 @@ Add a screenshot of the application here:
 
 ![output2](screenshots/output2.png)
 
+## Project Demo
 
 
+Camera
+
+   ↓
+
+MediaPipe Hand Detection
+ 
+  ↓
+
+Thumb + Index Finger Tracking
+
+   ↓
+
+Calculate Finger Distance
+
+   ↓
+
+Map Distance → Volume Level
+
+ ↓
+
+Windows System Volume
 
 ## 🚀 Future Improvements
 
