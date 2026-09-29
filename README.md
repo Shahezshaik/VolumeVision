@@ -168,9 +168,9 @@ Add a screenshot of the application here:
 
 ```markdown
 
-![VolumeVision](screenshots/output1.png)
+![output1](screenshots/output1.png)
 
-![VolumeVision](screenshots/output2.png)
+![output2](screenshots/output2.png)
 
 
 ```
