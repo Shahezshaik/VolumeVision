@@ -166,14 +166,14 @@ Press **ESC** to exit the application.
 
 Add a screenshot of the application here:
 
-```markdown
+
 
 ![output1](screenshots/output1.png)
 
 ![output2](screenshots/output2.png)
 
 
-```
+
 
 ## 🚀 Future Improvements
 
